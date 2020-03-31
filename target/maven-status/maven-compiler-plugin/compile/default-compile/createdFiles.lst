@@ -1,0 +1,6 @@
+org\vpn\javaweb\vpntest.class
+vpn\detection\Response$CS.class
+vpn\detection\Response$latlon.class
+vpn\detection\VPNDetection.class
+org\vpn\javaweb\VpnCheckServlet.class
+vpn\detection\Response.class
